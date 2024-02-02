@@ -25,6 +25,8 @@
     "open-source"
   ],
   "dependencies": {
+    "@octokit/plugin-rest-endpoint-methods": "^10.2.0",
+    "@octokit/rest": "^20.0.2",
     "dotenv": "^16.3.1"
   },
   "devDependencies": {
